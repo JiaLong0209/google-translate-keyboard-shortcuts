@@ -1,4 +1,4 @@
-# google-translate-keyboard-shortcuts
+# Google Translate Keyboard Shortcuts
 This is a browser extension provides some keyboard shortcuts in google translate page, but these shortcuts are not customizable.
 
 For Firefox: [https://addons.mozilla.org/zh-TW/firefox/addon/google-translate-shortcuts/](https://addons.mozilla.org/zh-TW/firefox/addon/google-translate-shortcuts/)
