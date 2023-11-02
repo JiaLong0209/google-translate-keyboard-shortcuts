@@ -1,6 +1,7 @@
 # google-translate-keyboard-shortcuts
 This is a browser extension provides some keyboard shortcuts in google translate page, but these shortcuts are not customizable.
-For [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/google-translate-shortcuts/)
+
+For Firefox: [https://addons.mozilla.org/zh-TW/firefox/addon/google-translate-shortcuts/](https://addons.mozilla.org/zh-TW/firefox/addon/google-translate-shortcuts/)
 
 ## Keyboard shortcuts:
 * Alt + O = focus the input text
