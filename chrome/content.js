@@ -27,6 +27,10 @@ window.onload = () => {
         orignalLang?.click();
     }
 
+    function copyOutputText() {
+        document.querySelector('[jsname="kImuFf"]').click();
+    }
+
     function init() {
         audioButtons = [document.querySelectorAll(audioSelector)[0], document.querySelectorAll(audioSelector)[1]]
         langButtons = Array.from(document.querySelectorAll('.VfPpkd-AznF2e-LUERP-vJ7A6b-OWXEXe-XuHpsb.VfPpkd-AznF2e-LUERP-vJ7A6b > .VfPpkd-AznF2e-LUERP-bN97Pc')).map(i => [...i.childNodes]).flat()
@@ -101,6 +105,10 @@ window.onload = () => {
 
             case 'm':
                 switchToOrignalLang();
+                break;
+
+            case 'c':
+                copyOutputText();
                 break;
         }
     }
