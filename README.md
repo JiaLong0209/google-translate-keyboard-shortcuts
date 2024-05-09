@@ -5,6 +5,7 @@ For Firefox: [https://addons.mozilla.org/zh-TW/firefox/addon/google-translate-sh
 
 ## Keyboard shortcuts:
 * Alt + O = focus the input text
+* Alt + C = copy the output text
 * Alt + J = left audio button
 * Alt + K = right audio button
 * Alt + L = clear the input text
